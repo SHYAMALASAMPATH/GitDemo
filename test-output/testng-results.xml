@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="194" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="194" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+      <class name="qaclickacademy.Mavanproject.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:qaclickacademy.Mavanproject.SeleniumTest@51e2adc7]" name="browserAutomation" duration-ms="31" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:qaclickacademy.Mavanproject.SeleniumTest@51e2adc7]" name="elementUI" duration-ms="0" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- qaclickacademy.Mavanproject.SeleniumTest -->
+      <class name="qaclickacademy.Mavanproject.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.Mavanproject.RestAPITest@1a8a8f7c]" name="deleteTwitter" duration-ms="3" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.Mavanproject.RestAPITest@1a8a8f7c]" name="postJira" duration-ms="3" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.Mavanproject.RestAPITest -->
+      <class name="qaclickacademy.Mavanproject.AppiumTest">
+        <test-method status="PASS" signature="iosApps()[pri:0, instance:qaclickacademy.Mavanproject.AppiumTest@2353b3e6]" name="iosApps" duration-ms="10" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:qaclickacademy.Mavanproject.AppiumTest@2353b3e6]" name="nativeAppAndroid" duration-ms="19" started-at="2020-07-30T12:28:59 IST" finished-at="2020-07-30T12:28:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- qaclickacademy.Mavanproject.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
